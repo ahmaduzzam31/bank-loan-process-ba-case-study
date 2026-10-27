@@ -7,7 +7,7 @@
 |---|---|
 | **Project** | SME Loan Origination Redesign ("Faster Yes") |
 | **Sponsor** | Director of SME Banking |
-| **Business Analyst** | ahmaduzzam31 |
+| **Business Analyst** | Ahmad Uzzam |
 | **Version / date** | v1.0 · October 2026 |
 | **Status** | Approved for analysis & design |
 
