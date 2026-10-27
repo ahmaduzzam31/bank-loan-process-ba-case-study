@@ -1,0 +1,10 @@
+{
+  "applications_per_year": 5995,
+  "baseline_funded_rate": 0.6162,
+  "avg_funded_loan_eur": 91208.0,
+  "extra_funded_loans_option_b": 455.0,
+  "extra_funded_loans_option_c": 685.0,
+  "assessments_per_year": 5642,
+  "document_requests_per_year": 3883,
+  "median_days_to_decision": 16.2
+}
